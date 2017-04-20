@@ -1,0 +1,19 @@
+.center {text-align: center;}
+
+.cell-wrap {
+    display: table;
+    width: auto;
+    margin: 0 auto;
+    background:white;
+
+}
+.cell {
+    border-radius: 20px !important; 
+    display: table-cell;
+    min-width: 40px;
+    min-height: 40px;
+    background-image: linear-gradient(90deg, #4F364C, #FFFFFF);
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 5px;
+}
